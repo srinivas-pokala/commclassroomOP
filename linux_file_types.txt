@@ -1,5 +1,7 @@
 This is type qualifier file to describe Linux file types:
 
 
-Name of the Author: Srinivas_Pokala
+Name of the Author: srinivas pokala
 Tools Required: NA
+
+Added changes from Command Prompt
